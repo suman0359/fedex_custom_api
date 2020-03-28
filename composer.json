@@ -1,0 +1,16 @@
+{
+    "name": "tasfir/v11_composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Tasfir Hossain Suman",
+            "email": "tasfirsuman@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"classmap": [
+    		"FedEx"
+    	]
+    }
+}
